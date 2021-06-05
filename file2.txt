@@ -1,0 +1,5 @@
+Hi all
+welcome to devops class
+github
+git bash
+
